@@ -1,2 +1,2 @@
 # Console-Chat-Python-Sockets
-Chat with public IP addres - Python
+Console chat, you can connect from different network. Router port forwarding configuration needed.
